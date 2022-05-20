@@ -1,8 +1,7 @@
-[![MasterHead]([https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif](https://i.pinimg.com/originals/56/25/df/5625df8d2147f6b160f1ef13bd4b8ff5.gif))]
-<h1 align="center">Hi 👋, I'm Chathura Mahanama</h1>
-<h3 align="center">A passionate Full-Stack developer from SriLanka</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
-
+![MasterHead](https://miro.medium.com/max/875/1*v8Z6faF7ij8iSwunSMcTZA.gif)
+<h1 align="center">Hi 👋, I'm CHATHURA MAHANAMA</h1>
+<h3 align="center">Full-Stack developer from SriLanka</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code04u&label=Profile%20views&color=0e75b6&style=flat" alt="code04u" /> </p>
 
