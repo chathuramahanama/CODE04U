@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/875/1*v8Z6faF7ij8iSwunSMcTZA.gif)
-<h1 align="center">Hi 👋, I'm CHATHURA MAHANAMA</h1>
+<h1 align="center"> 👋, CHATHURA MAHANAMA</h1>
 <h3 align="center">Full-Stack developer from SriLanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif">
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
